@@ -105,7 +105,7 @@ const HeroSection = () => {
 
         <div className="flex flex-col md:flex-row justify-between w-full z-20 relative gap-x-10">
           {/* Text Content */}
-          <div className="flex flex-col mt-[70px] max-w-[500px] md:max-w-[600px]">
+          <div className="flex flex-col md:mt-[70px] max-w-[500px] md:max-w-[600px]">
             <Typography variant="heading" className="text-[#000000] mb-10 text-center md:text-left">
               Save time by building fast with Boldo Template
             </Typography>
